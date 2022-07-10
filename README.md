@@ -6,7 +6,7 @@
 
 The idea of this platform is based on linking the owners of respirators and those in need, in an attempt to organize the process of distributing respirators to patients who need them in this difficult circumstance.
 
-# We need your help !
+# We need your help!
 
 The platform will be created by us, I mean me and you and anyone who can help (community driven), if you are a developer then we need your help in building this platform.
 
